@@ -1,5 +1,4 @@
 # Message-Passing-Interface 
-Distributed System assignments
 
 MPI or message passing interface  is a standardized means of exchanging messages between multiple computers running a parallel program across distributed memory.
 
